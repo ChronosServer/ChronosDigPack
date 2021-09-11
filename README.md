@@ -1,2 +1,3 @@
 # ChronosDigPack
-Chronos Dig Pack
+## Overview
+**Minecraft texturepack used by Chronos members for aiding with digging.**
